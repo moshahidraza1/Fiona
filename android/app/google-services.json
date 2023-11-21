@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383674534600",
+    "project_id": "fiona-fd9d1",
+    "storage_bucket": "fiona-fd9d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383674534600:android:e8304a9345f4fad47933fd",
+        "android_client_info": {
+          "package_name": "com.example.fiona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuxFjrjoAOM2EI8Oz0GQtZ0_IycBFcR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
